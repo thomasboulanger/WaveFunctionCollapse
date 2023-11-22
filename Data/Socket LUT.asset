@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5eeae00a33b70b48a8342564f7fd20b, type: 3}
+  m_Name: Socket LUT
+  m_EditorClassIdentifier: 
+  _sockets:
+    _content:
+    - -1
+    - 0s
+    - 1s
+    - 2s
+    - 3
+    - 3f
+    - 4
+    - 4f
+    - 5
+    - 5f
+    - 6_0
+    - 6_1
+    - 6_2
+    - 6_3
+    - 7_0
+    - 7_1
+    - 7_2
+    - 7_3
+    - 8_0
+    - 8_1
+    - 8_2
+    - 8_3
+    - 9
+    - 9f
+    - 10s
+    - 11s
+    - 12
+    - 12f
+    - 13
+    - 13f
+    - 14
+    - 14f
+    - 15s
+    - 16s
+    - 17
+    - 17f
+    - 18
+    - 18f
+    - 19
+    - 19f
+    - 20
+    - 20f
+    - 21
+    - 21f
+    - 22
+    - 22f
+    - 23_0
+    - 23_1
+    - 23_2
+    - 23_3
+    - 24s
+    - 25
+    - 25f
+    - 26_0
+    - 26_1
+    - 26_2
+    - 26_3
